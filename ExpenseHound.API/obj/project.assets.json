@@ -1210,6 +1210,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "AWSSDK.SecurityToken >= 3.7.100.14",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.0",
       "MongoDB.Driver >= 2.19.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
@@ -1260,6 +1261,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "AWSSDK.SecurityToken": {
+            "target": "Package",
+            "version": "[3.7.100.14, )"
+          },
           "Microsoft.EntityFrameworkCore.Tools": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EHAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c62f4b5efef1e0c3138e21d580a66c2c08f16be6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e46a4f0261ff396389a6bbfb8e2dadf0ca3e66d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("EHAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EHAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "RFju8aqGqRkGGXkct+BaCOtujr7kO6QiXoiosMKWAJs=",
-  "Source": "ExpenseHound.API",
-  "BasePath": "_content/ExpenseHound.API",
+  "Hash": "lqk5uO7ZYvlrlAX5mugESFrz0AMN1+FhYIxPBEqSStE=",
+  "Source": "EHAPI",
+  "BasePath": "_content/EHAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
